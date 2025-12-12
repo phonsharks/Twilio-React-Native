@@ -320,7 +320,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 **Nedim**
 
-- GitHub: [@kullaniciadi](https://github.com/phonsharks)
+- GitHub: (https://github.com/phonsharks)
 
 ## 🙏 Teşekkürler
 
